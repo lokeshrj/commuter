@@ -1,0 +1,13 @@
+{
+  "workAddress": "work address",
+  "homeAddress": "home address",
+  "pollIntervalMinutes": "5",
+  "morningCommuteStartTime": "07",
+  "morningCommuteEndTime": "10",
+  "eveningCommuteStartTime": "15",
+  "eveningCommuteEndTime": "19",
+  "commuteDays": [
+    "1", "2","3", "4", "5"
+  ],
+  "googleMapsAPIKey": ""
+}

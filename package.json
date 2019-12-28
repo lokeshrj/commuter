@@ -1,0 +1,22 @@
+{
+  "name": "commuter",
+  "version": "1.0.0",
+  "description": "Show commuting time in the  Mac menu bar.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/lokeshrj/commuter",
+  "keywords": [
+    "Electron",
+    "commute",
+    "driving",
+    "traffic"
+  ],
+  "author": "Lokesh J",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.1.7",
+    "node-fetch": "^2.6.0"
+  }
+}
