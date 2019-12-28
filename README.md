@@ -54,4 +54,4 @@ The values you choose in `config.json` determine how often the API is queried, a
 
 As an example calculation, the example above would cause us to query the API every 5 minutes for 3 hours in the morning and 4 hours in the evening, 4 days a week. 
 Assuming 4.5 weeks a month, # of API requests = (3 hours * 12 requests/hour) + (4 hours * 12 requests/hour) * 4 days per week * 4.5 weeks per month = 1512 API requests/month. 
-This is $15.12 billed per month, which is currently discounted to $0 since it is under the free allowance.
+This is $15.12 billed per month, which is currently discounted to $0 since it is under the free allowance. It is your responsibility to stay under the limit, and pay Google for any overages.
