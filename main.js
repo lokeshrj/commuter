@@ -39,10 +39,10 @@ const inEveningCommuteHours = () => {
 
 const getBaseIcon = () => {
   return inMorningCommuteHours()
-    ? "./icons/work-briefcase_icon-icons.com_72464@2x.png"
+    ? "./icons/work-briefcase_icon-icons.com_72464Template@2x.png"
     : inEveningCommuteHours()
-    ? "./icons/home_icon-icons.com_73532@2x.png"
-    : "./icons/trafficjam_trafic_13247@2x.png";
+    ? "./icons/home_icon-icons.com_73532Template@2x.png"
+    : "./icons/trafficjam_trafic_13247Template@2x.png";
 };
 
 const encode = str => str.split(" ").join("+");
