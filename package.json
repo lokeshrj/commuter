@@ -16,7 +16,7 @@
   "author": "Lokesh J",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^7.1.7",
+    "electron": "^11.5.0",
     "node-fetch": "^2.6.0"
   }
 }
